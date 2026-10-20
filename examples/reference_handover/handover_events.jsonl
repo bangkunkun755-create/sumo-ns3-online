@@ -1,0 +1,13 @@
+{"ns3_time_s": 0.0, "from_rsu": 0, "to_rsu": 1, "x_m": -994.9, "y_m": 995.2, "distance_m": 120.32564149008304, "kind": "initial_selection"}
+{"ns3_time_s": 25.0, "from_rsu": 1, "to_rsu": 2, "x_m": -744.9, "y_m": 995.2, "distance_m": 120.32564149008304, "kind": "handover"}
+{"ns3_time_s": 50.0, "from_rsu": 2, "to_rsu": 3, "x_m": -495.0, "y_m": 995.2, "distance_m": 119.42884911109208, "kind": "handover"}
+{"ns3_time_s": 75.0, "from_rsu": 3, "to_rsu": 4, "x_m": -244.99999999999997, "y_m": 995.2, "distance_m": 117.43615286614252, "kind": "handover"}
+{"ns3_time_s": 100.0, "from_rsu": 4, "to_rsu": 5, "x_m": 4.73, "y_m": 995.2, "distance_m": 122.26845423084401, "kind": "handover"}
+{"ns3_time_s": 125.0, "from_rsu": 5, "to_rsu": 6, "x_m": 254.73000000000005, "y_m": 995.2, "distance_m": 117.87586224499053, "kind": "handover"}
+{"ns3_time_s": 150.0, "from_rsu": 6, "to_rsu": 7, "x_m": 504.73, "y_m": 995.2, "distance_m": 113.48384422462959, "kind": "handover"}
+{"ns3_time_s": 174.0, "from_rsu": 7, "to_rsu": 8, "x_m": 744.73, "y_m": 995.2, "distance_m": 119.07378762767229, "kind": "handover"}
+{"ns3_time_s": 200.0, "from_rsu": 8, "to_rsu": 9, "x_m": 1004.6273594464844, "y_m": 992.6745281107031, "distance_m": 132.11072335130143, "kind": "handover"}
+{"ns3_time_s": 226.0, "from_rsu": 9, "to_rsu": 10, "x_m": 1264.65, "y_m": 992.0, "distance_m": 117.78485683652198, "kind": "handover"}
+{"ns3_time_s": 251.0, "from_rsu": 10, "to_rsu": 11, "x_m": 1514.65, "y_m": 992.0, "distance_m": 113.40173058644193, "kind": "handover"}
+{"ns3_time_s": 275.0, "from_rsu": 11, "to_rsu": 12, "x_m": 1754.65, "y_m": 992.0, "distance_m": 118.9804710866451, "kind": "handover"}
+{"ns3_time_s": 300.0, "from_rsu": 12, "to_rsu": 13, "x_m": 2004.65, "y_m": 992.0, "distance_m": 123.76377701088464, "kind": "handover"}

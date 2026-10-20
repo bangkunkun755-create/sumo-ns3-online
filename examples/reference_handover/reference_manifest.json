@@ -1,0 +1,20 @@
+{
+  "original_run_id": "handover-20261020-144822-586860",
+  "provenance": "actual validated experiment, not synthetic",
+  "metadata_changes": [
+    "Removed host sumo_command and traci_module",
+    "Replaced network path with local hash-checked snapshot"
+  ],
+  "rng_seed": 23423,
+  "rng_run": 1,
+  "core_sha256": {
+    "sumo_trajectory.csv": "6ebaebc630bd23d86a7b1853291accd0ffc831a36e5d1b9fe9cd8fc0d825a594",
+    "ns3_sync.csv": "34cadefdf4bef90b651647f210d4831dac7808b7042805bc5b8b24b3c1bc26e3",
+    "network_feedback.csv": "57314b6f2812184a19b719e2a0182016fe97db4ae543d27aa42f8a36f655c081",
+    "packets.jsonl": "adbd4d0b83c808dae66302a1555437343338aa00429c283ce4c630fef2c4139f",
+    "packet_summary.csv": "48a1c92ab2a5f2a3301936792b867a86e3c41bcfe8142a767576e10812bcba93",
+    "results.json": "a47676ec768d23a0896c625542eac96f1b6ddedbb5161b9021d9caaad9cf3dfc",
+    "association.csv": "37b57603c3036d805c1e37baf03512775950cd0df718ffed709358ae7184253d",
+    "handover_events.jsonl": "5407a11307a8fb68928ae7e5f4a02631d2a01e97917cc08c04c2b903ce6b2de4"
+  }
+}

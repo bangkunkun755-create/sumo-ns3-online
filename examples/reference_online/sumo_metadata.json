@@ -1,0 +1,53 @@
+{
+  "protocol_version": 1,
+  "mode": "online",
+  "sumo_version": [
+    20,
+    "SUMO 1.12.0"
+  ],
+  "network": "network_snapshot.net.xml",
+  "network_sha256": "d3659f7b4717f217b591b63a4d16a1c764708539e0d230e7db5bfe587c72ead9",
+  "vehicle_id": "online_car",
+  "route_edges": [
+    "D2",
+    "L2",
+    "L12",
+    "L10",
+    "L7",
+    "D7"
+  ],
+  "duration_s": 100.0,
+  "speed_mps": 10.0,
+  "step_s": 1,
+  "time_offset_s": 1.0,
+  "time_definition": "ns3_time_s = TraCI simulation.getTime() - time_offset_s",
+  "initial_state": {
+    "seq": 0,
+    "ns3_time_s": 0,
+    "sumo_time_s": 1.0,
+    "time_offset_s": 1.0,
+    "vehicle_id": "online_car",
+    "vehicle_count": 1,
+    "x_m": -994.9,
+    "y_m": 995.2,
+    "z_m": 1.5,
+    "speed_mps": 10.0,
+    "vx_mps": 10.0,
+    "vy_mps": 6.123233995736766e-16,
+    "angle_deg": 90.0,
+    "edge_id": "D2"
+  },
+  "gui": {
+    "enabled": true,
+    "delay_ms": 0.0,
+    "overview": false,
+    "packet_animation": true,
+    "packet_animation_definition": "previous-interval real TX/RX replay; dots are schematic, not RF paths or delay scale",
+    "rsu_offsets_m": [
+      250.0,
+      750.0
+    ],
+    "colors": "green means received since previous sync; not instantaneous RF state"
+  },
+  "network_snapshot": "network_snapshot.net.xml"
+}

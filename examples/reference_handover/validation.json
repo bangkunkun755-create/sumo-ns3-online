@@ -1,0 +1,56 @@
+{
+  "passed": true,
+  "sync_updates": 301,
+  "max_position_error_m": 0.0,
+  "max_clock_error_s": 0.0,
+  "max_speed_error_mps": 0.0,
+  "max_between_step_prediction_correction_m": 1.30477660592529,
+  "max_packet_distance_error_m": 1.7763568394002505e-12,
+  "generated_packets": 2980,
+  "received_packets": 2732,
+  "network_feedback_verified": true,
+  "network_unchanged": true,
+  "acceptance": {
+    "A2.1_single_vehicle_csv": true,
+    "A2.3_live_socket_exchange": true,
+    "A2.4_ns3_driven_1s_sync": true,
+    "A2.2_multi_rsu_packet_times": true
+  },
+  "rsu_count": 24,
+  "handover_count": 12,
+  "serving_sequence": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "unused_rsus": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "selected_without_traffic": [
+    13
+  ],
+  "nearest_selection_verified": true,
+  "single_destination_schedule_verified": true,
+  "handover_definition": "application UDP target change, NOT L2/cellular handover"
+}

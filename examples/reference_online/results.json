@@ -1,0 +1,4 @@
+{
+"duration_s":100,"sync_step_s":1,"sync_updates":101,"max_position_error_m":0,"max_clock_error_s":0,"max_prediction_correction_m":0.26999999999999957,"duplicates":0,"malformed":0,"tx_power_dbm":20,"interval_s":0.10000000000000001,"rng_seed":23423,"rng_run":1,"arp_dead_timeout_s":1,"radio":{"standard":"802.11g","mac":"ad-hoc","data_rate_mbps":6,"channel":1,"frequency_mhz":2412,"loss_model":"LogDistance","exponent":3,"reference_loss_db":40.05},
+"rsus":[{"rsu_id":1,"ip":"10.2.0.2","x_m":-744.89999999999998,"y_m":1005.2,"z_m":3,"generated_packets":980,"socket_accepted_packets":980,"received_packets":226,"pdr":0.23061224489795917,"mean_delay_ms":39.023859207964541},{"rsu_id":2,"ip":"10.2.0.3","x_m":-244.89999999999998,"y_m":1005.2,"z_m":3,"generated_packets":980,"socket_accepted_packets":980,"received_packets":226,"pdr":0.23061224489795917,"mean_delay_ms":60.012142353982334}]
+}

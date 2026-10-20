@@ -1,0 +1,18 @@
+{
+  "original_run_id": "online-20261019-190229-875462",
+  "provenance": "actual validated experiment, not synthetic",
+  "metadata_changes": [
+    "Removed host sumo_command and traci_module",
+    "Replaced network path with local hash-checked snapshot"
+  ],
+  "rng_seed": 23423,
+  "rng_run": 1,
+  "core_sha256": {
+    "sumo_trajectory.csv": "4de0a9910d794bf1c27746f367ecd4decac3268865444b205c34005c5d7413c5",
+    "ns3_sync.csv": "3382b77bf06638d5dfbcd23b1cec3730803041595169e0f8452231ca719c7a86",
+    "network_feedback.csv": "821175791befa4dacc9413a9f19de2e387c0f3fed5b26a5bfd6e034ee068f565",
+    "packets.jsonl": "f7e6dd3266195af820baf806831981681e7c1a45238827ed70aa2ebc47e1412e",
+    "packet_summary.csv": "9cc89e32abba4add5c6cab6bb86be63fdb21da26255f503301cd69525d713841",
+    "results.json": "72296a5ecb03f0c340defa7fa5d5158b5a6825506da9b58d5eaba76200eab094"
+  }
+}

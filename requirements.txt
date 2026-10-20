@@ -1,0 +1,4 @@
+# Optional pip route for Python 3.10. Recommended Ubuntu22.04 route: apt python3-matplotlib.
+# SUMO, sumo-tools (TraCI), ns-3 and C++ toolchain are SYSTEM dependencies, not pip dependencies.
+numpy==1.21.5
+matplotlib==3.5.1

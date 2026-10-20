@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+.local/
+/runs/
+/build/
+/dist/
+*.zip
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db

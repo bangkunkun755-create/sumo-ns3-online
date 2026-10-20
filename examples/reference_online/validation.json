@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "sync_updates": 101,
+  "max_position_error_m": 0.0,
+  "max_clock_error_s": 0.0,
+  "max_speed_error_mps": 0.0,
+  "max_between_step_prediction_correction_m": 0.2699999999999996,
+  "max_packet_distance_error_m": 5.684341886080801e-13,
+  "generated_packets": 1960,
+  "received_packets": 452,
+  "network_feedback_verified": true,
+  "network_unchanged": true,
+  "acceptance": {
+    "A2.1_single_vehicle_csv": true,
+    "A2.2_two_rsus_packet_times": true,
+    "A2.3_live_socket_exchange": true,
+    "A2.4_ns3_driven_1s_sync": true
+  }
+}
